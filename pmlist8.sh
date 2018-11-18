@@ -1,0 +1,36 @@
+su
+pm disable com.android.backupconfirm
+pm disable com.android.cts.ctsshim
+pm disable com.android.cts.priv.ctsshim
+pm disable com.android.exchange
+pm disable com.android.printspooler
+pm disable com.android.providers.userdictionary
+pm disable com.android.sharedstoragebackup
+pm disable com.android.vending
+pm disable com.google.android.backuptransport
+pm disable com.google.android.configupdater
+pm disable com.google.android.ext.services
+pm disable com.google.android.ext.shared
+pm disable com.google.android.gms
+pm disable com.google.android.gsf
+pm disable com.google.android.marvin.talkback
+pm disable com.google.android.onetimeinitializer
+pm disable com.google.android.partnersetup
+pm disable com.google.android.printservice.recommendation
+pm disable com.google.android.syncadapters.contacts
+pm disable com.huawei.android.AutoRegSms
+pm disable com.huawei.android.chr
+pm disable com.huawei.android.hwaps
+pm disable com.huawei.android.instantonline
+pm disable com.huawei.cryptosms.service
+pm disable com.huawei.fido.uafclient
+pm disable com.huawei.hwasm
+pm disable com.huawei.iaware
+pm disable com.huawei.iconnect
+pm disable com.huawei.ims
+pm disable com.huawei.lbs
+pm disable com.huawei.msdp
+pm disable com.huawei.nearby
+pm disable com.huawei.regservice
+pm disable com.huawei.wifiprobqeservice
+
